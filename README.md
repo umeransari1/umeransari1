@@ -1,4 +1,4 @@
-### <h3>Hi! I'm Muhammad Umer Tahir 👋</h3>
+### <h2>Hi! I'm Muhammad Umer Tahir 👋</h2>
 
 <p>
   <animated-image data-catalyst="" style="float: right;">
@@ -7,9 +7,12 @@
 </p>
 
 <ul>
-  <li>😉 I'm a Full-stack <strong>.Net Developer</strong>. </li>
-  <li>💻 I am experienced in web applications (ASP.NET Core MVC, Web API). I have also worked with databases (MsSQL Server, MySQL, MongoDB) </li>
+  <li>😉 I'm a Full-stack <b>.Net Developer</b>. </li>
+  <li>💻 I am experienced in <b>web applications</b> (ASP.NET Core MVC, Web API). I have also worked with <b>databases</b> (MsSQL Server, MySQL, MongoDB) </li>
 </ul>
+
+### 📪 Connect with me
+
 <!--
 **umeransari1/umeransari1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
