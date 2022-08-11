@@ -12,23 +12,18 @@
 </ul>
 
 ### 📪 Connect with me
+<p>
 <a href="https://www.linkedin.com/in/muhammadumertahir/">
   <img align="left" title="Muhammad Umer Tahir | LinkedIn" width="40px" src="https://raw.githubusercontent.com/umeransari1/umeransari1/main/Icons/linkedin.png" style="max-width: 100%;">
 </a>
 <a href="mailto:umert3572@gmail.com">
   <img align="left" title="Muhammad Umer Tahir | Gmail" width="40px" src="https://raw.githubusercontent.com/umeransari1/umeransari1/main/Icons/gmail.png" style="max-width: 100%;">
 </a>
-<!--
-**umeransari1/umeransari1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.upwork.com/freelancers/~012540494c524c675c">
+  <img align="left" title="Muhammad Umer Tahir | Upwork" width="40px" src="https://raw.githubusercontent.com/umeransari1/umeransari1/main/Icons/upwork.png" style="max-width: 100%;">
+</a>
+</p>
 
-Here are some ideas to get you started:
+<br/>
+<hr style="height:2px;" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
