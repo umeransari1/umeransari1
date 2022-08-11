@@ -12,7 +12,12 @@
 </ul>
 
 ### 📪 Connect with me
-
+<a href="https://www.linkedin.com/in/muhammadumertahir/">
+  <img align="left" title="Muhammad Umer Tahir | LinkedIn" width="40px" src="https://raw.githubusercontent.com/umeransari1/umeransari1/main/Icons/linkedin.png" style="max-width: 100%;">
+</a>
+<a href="mailto:umert3572@gmail.com">
+  <img align="left" title="Muhammad Umer Tahir | Gmail" width="40px" src="https://raw.githubusercontent.com/umeransari1/umeransari1/main/Icons/gmail.png" style="max-width: 100%;">
+</a>
 <!--
 **umeransari1/umeransari1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
