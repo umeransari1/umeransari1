@@ -8,7 +8,7 @@
 
 <ul>
   <li>😉 I'm a Full-stack <b>.Net Developer</b>. </li>
-  <li>💻 I am experienced in <b>web applications</b> (ASP.NET Core MVC, Web API). I have also worked with <b>databases</b> (MsSQL Server, MySQL, MongoDB) </li>
+  <li>💻 I am experienced in <b>web applications</b> (ASP.NET WebForms, ASP.NET MVC, ASP.NET Core MVC, Web API). I have also worked with <b>databases</b> (MsSQL Server, MySQL, MongoDB) </li>
 </ul>
 
 ### 📪 Connect with me
